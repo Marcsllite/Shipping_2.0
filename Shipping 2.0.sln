@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shipping 2.0", "Shipping 2.0\Shipping 2.0.vcxproj", "{5A421F07-028A-4A1F-BAE4-0C7E6A83106F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A421F07-028A-4A1F-BAE4-0C7E6A83106F}.Debug|x64.ActiveCfg = Debug|Win32
+		{5A421F07-028A-4A1F-BAE4-0C7E6A83106F}.Debug|x64.Build.0 = Debug|Win32
+		{5A421F07-028A-4A1F-BAE4-0C7E6A83106F}.Debug|x86.ActiveCfg = Debug|Win32
+		{5A421F07-028A-4A1F-BAE4-0C7E6A83106F}.Debug|x86.Build.0 = Debug|Win32
+		{5A421F07-028A-4A1F-BAE4-0C7E6A83106F}.Release|x64.ActiveCfg = Release|x64
+		{5A421F07-028A-4A1F-BAE4-0C7E6A83106F}.Release|x64.Build.0 = Release|x64
+		{5A421F07-028A-4A1F-BAE4-0C7E6A83106F}.Release|x86.ActiveCfg = Release|Win32
+		{5A421F07-028A-4A1F-BAE4-0C7E6A83106F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47BC18D2-E3DB-4D34-8666-D54E890F73F2}
+	EndGlobalSection
+EndGlobal

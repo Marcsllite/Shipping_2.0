@@ -1,0 +1,39 @@
+##################################### SHIPMENT  #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 1000000000.000000 Bq (Actual Activity: 36828.859219)
+	Shipment Activity Concentration Limit: 1000000.000000 Bq/g (Actual Concentraion: 1841.442961)
+	Shipment License Percentage: 0.099537%
+
+#####Isotope 1:#####
+Name: H-3
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 36828.9 Bq (Decay Time: 30 days)
+Half-Life (days): 4485.27
+Decay Constant (d-1): 0.000154539
+DPM: 2.20973e+06
+H-3 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 0.0995375%
+	Percentage of Activity Limit: 0.00368289%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2167-Aug-02
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+

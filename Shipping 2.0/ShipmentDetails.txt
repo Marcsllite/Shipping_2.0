@@ -1,0 +1,36 @@
+##################################### SHIPMENT  #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): Wednesday October 01, 1997
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipemnt Reportable Quantity?: No
+Shipment Classification: Exempt:
+	Shipment Activity Limit: -nan(ind) Bq (Actual Activity: 0.000000)
+	Shipment Activity Concentration Limit: -nan(ind) Bq/g (Actual Concentraion: 0.000000)
+	Shipment License Percentage: 0.000000%
+
+#####Isotope 1:#####
+Name: Au-198
+Initial Activity: 20 microCi
+Activity today (August 22, 2019): 0 Bq (Decay Time: 7995 days)
+Half-Life (days): 2.7
+Decay Constant (d-1): 0.256721
+DPM: 0
+Au-198 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 0%
+	Percentage of Activity Limit: 0%
+
+
+Exempt from Licensing on August 22, 2019
+Decay Date (< 500dpm): November 14, 1997
+**********************************
+
+########################################################################################
+
+

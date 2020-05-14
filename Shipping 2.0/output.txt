@@ -1,0 +1,4328 @@
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 1 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 1000000000.000000 Bq (Actual Activity: 36828.859219)
+	Shipment Activity Concentration Limit: 1000000.000000 Bq/g (Actual Concentraion: 1841.442961)
+	Shipment License Percentage: 0.099537%
+
+#####Isotope 1:#####
+Name: H-3
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 36828.9 Bq (Decay Time: 30 days)
+Half-Life (days): 4485.27
+Decay Constant (d-1): 0.000154539
+DPM: 2.20973e+06
+H-3 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 0.0995375%
+	Percentage of Activity Limit: 0.00368289%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2167-Aug-02
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 2 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: No
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 20000000000.000000 Bq (Actual Activity: 25065.925756)
+	Shipment License Percentage: 677.457453%
+
+#####Isotope 1:#####
+Name: Be-7
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 25065.9 Bq (Decay Time: 30 days)
+Half-Life (days): 53.4
+Decay Constant (d-1): 0.0129803
+DPM: 1.50396e+06
+Be-7 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 677.457%
+	Percentage of Activity Limit: 0.00012533%
+
+
+Exempt from Licensing on 2019-Apr-12
+Decay Date (< 500dpm): 2020-Jul-25
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Dec-04
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 3 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: -nan(ind) Bq (Actual Activity: 0.000000)
+	Shipment Activity Concentration Limit: -nan(ind) Bq/g (Actual Concentraion: 0.000000)
+	Shipment License Percentage: 0.000000%
+
+#####Isotope 1:#####
+Name: C-11
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 0 Bq (Decay Time: 30 days)
+Half-Life (days): 0.0237037
+Decay Constant (d-1): 29.2421
+DPM: 0
+C-11 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 0%
+	Percentage of Activity Limit: 0%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2018-Oct-17
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 4 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 10000000.000000 Bq (Actual Activity: 36999.623844)
+	Shipment Activity Concentration Limit: 10000.000000 Bq/g (Actual Concentraion: 1849.981192)
+	Shipment License Percentage: 0.999990%
+
+#####Isotope 1:#####
+Name: C-14
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 36999.6 Bq (Decay Time: 30 days)
+Half-Life (days): 2.0454e+06
+Decay Constant (d-1): 3.38881e-07
+DPM: 2.21998e+06
+C-14 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 0.99999%
+	Percentage of Activity Limit: 0.369996%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 9999-Dec-31
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 5 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: -nan(ind) Bq (Actual Activity: 0.000000)
+	Shipment Activity Concentration Limit: -nan(ind) Bq/g (Actual Concentraion: 0.000000)
+	Shipment License Percentage: 0.000000%
+
+#####Isotope 1:#####
+Name: N-13
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 0 Bq (Decay Time: 30 days)
+Half-Life (days): 0.0115394
+Decay Constant (d-1): 60.0681
+DPM: 0
+N-13 Classification: Exempt
+Reportable Quantity?: Yes
+
+Percentages: 
+	Percentage of Licensing Limit: 0%
+	Percentage of Activity Limit: 0%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2018-Oct-17
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 6 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 1000000.000000 Bq (Actual Activity: 0.000000)
+	Shipment Activity Concentration Limit: 10.000000 Bq/g (Actual Concentraion: 0.000000)
+	Shipment License Percentage: 0.000000%
+
+#####Isotope 1:#####
+Name: F-18
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 2.92772e-67 Bq (Decay Time: 30 days)
+Half-Life (days): 0.127014
+Decay Constant (d-1): 5.45726
+DPM: 1.75663e-65
+F-18 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 7.91276e-73%
+	Percentage of Activity Limit: 2.92772e-71%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2018-Oct-18
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 7 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 500000000.000000 Bq (Actual Activity: 35970.499259)
+	Shipment License Percentage: 9.721757%
+
+#####Isotope 1:#####
+Name: Na-22
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 35970.5 Bq (Decay Time: 30 days)
+Half-Life (days): 736.9
+Decay Constant (d-1): 0.000940626
+DPM: 2.15823e+06
+Na-22 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 9.72176%
+	Percentage of Activity Limit: 0.0071941%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2043-Mar-28
+**********************************
+
+Date Shipment can be packaged as Exempt: 2033-Dec-27
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 8 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 100000.000000 Bq (Actual Activity: 0.000000)
+	Shipment Activity Concentration Limit: 10.000000 Bq/g (Actual Concentraion: 0.000000)
+	Shipment License Percentage: 0.000000%
+
+#####Isotope 1:#####
+Name: Na-24
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 1.3145e-10 Bq (Decay Time: 30 days)
+Half-Life (days): 0.625
+Decay Constant (d-1): 1.10904
+DPM: 7.88702e-09
+Na-24 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 3.55271e-14%
+	Percentage of Activity Limit: 1.3145e-13%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2018-Oct-24
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 9 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 100000.000000 Bq (Actual Activity: 8634.323678)
+	Shipment Activity Concentration Limit: 1000.000000 Bq/g (Actual Concentraion: 431.716184)
+	Shipment License Percentage: 2.333601%
+
+#####Isotope 1:#####
+Name: P-32
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 8634.32 Bq (Decay Time: 30 days)
+Half-Life (days): 14.29
+Decay Constant (d-1): 0.0485058
+DPM: 518059
+P-32 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 2.3336%
+	Percentage of Activity Limit: 8.63432%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2019-Apr-08
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 10 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 100000000.000000 Bq (Actual Activity: 16317.532452)
+	Shipment Activity Concentration Limit: 100000.000000 Bq/g (Actual Concentraion: 815.876623)
+	Shipment License Percentage: 0.441014%
+
+#####Isotope 1:#####
+Name: P-33
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 16317.5 Bq (Decay Time: 30 days)
+Half-Life (days): 25.4
+Decay Constant (d-1): 0.0272893
+DPM: 979052
+P-33 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 0.441014%
+	Percentage of Activity Limit: 0.0163175%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2019-Aug-20
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 11 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 100000000.000000 Bq (Actual Activity: 29168.938077)
+	Shipment Activity Concentration Limit: 100000.000000 Bq/g (Actual Concentraion: 1458.446904)
+	Shipment License Percentage: 0.788350%
+
+#####Isotope 1:#####
+Name: S-35
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 29168.9 Bq (Decay Time: 30 days)
+Half-Life (days): 87.44
+Decay Constant (d-1): 0.00792712
+DPM: 1.75014e+06
+S-35 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 0.78835%
+	Percentage of Activity Limit: 0.0291689%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2021-Sep-10
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 12 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 1000000.000000 Bq (Actual Activity: 36999.993002)
+	Shipment Activity Concentration Limit: 10000.000000 Bq/g (Actual Concentraion: 1849.999650)
+	Shipment License Percentage: 9.999998%
+
+#####Isotope 1:#####
+Name: Cl-36
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 37000 Bq (Decay Time: 30 days)
+Half-Life (days): 1.0994e+08
+Decay Constant (d-1): 6.30476e-09
+DPM: 2.22e+06
+Cl-36 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 10%
+	Percentage of Activity Limit: 3.7%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 9999-Dec-31
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 13 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 1000000.000000 Bq (Actual Activity: 0.000000)
+	Shipment Activity Concentration Limit: 100.000000 Bq/g (Actual Concentraion: 0.000000)
+	Shipment License Percentage: 0.000000%
+
+#####Isotope 1:#####
+Name: K-42
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 1.07764e-13 Bq (Decay Time: 30 days)
+Half-Life (days): 0.515
+Decay Constant (d-1): 1.34592
+DPM: 6.46584e-12
+K-42 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 2.91254e-17%
+	Percentage of Activity Limit: 1.07764e-17%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2018-Oct-23
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 14 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 10000000.000000 Bq (Actual Activity: 32560.815337)
+	Shipment Activity Concentration Limit: 10000.000000 Bq/g (Actual Concentraion: 1628.040767)
+	Shipment License Percentage: 8.800220%
+
+#####Isotope 1:#####
+Name: Ca-45
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 32560.8 Bq (Decay Time: 30 days)
+Half-Life (days): 162.7
+Decay Constant (d-1): 0.00426028
+DPM: 1.95365e+06
+Ca-45 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 8.80022%
+	Percentage of Activity Limit: 0.325608%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2024-Mar-10
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 15 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 500000000.000000 Bq (Actual Activity: 28871.742047)
+	Shipment License Percentage: 7.803174%
+
+#####Isotope 1:#####
+Name: Sc-46
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 28871.7 Bq (Decay Time: 30 days)
+Half-Life (days): 83.83
+Decay Constant (d-1): 0.00826849
+DPM: 1.7323e+06
+Sc-46 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 7.80317%
+	Percentage of Activity Limit: 0.00577435%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2021-Jul-28
+**********************************
+
+Date Shipment can be packaged as Exempt: 2020-Jul-10
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 16 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 10000000.000000 Bq (Actual Activity: 17465.316413)
+	Shipment Activity Concentration Limit: 1000.000000 Bq/g (Actual Concentraion: 873.265821)
+	Shipment License Percentage: 0.047204%
+
+#####Isotope 1:#####
+Name: Cr-51
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 17465.3 Bq (Decay Time: 30 days)
+Half-Life (days): 27.7
+Decay Constant (d-1): 0.0250234
+DPM: 1.04792e+06
+Cr-51 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 0.0472036%
+	Percentage of Activity Limit: 0.174653%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2019-Sep-17
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 17 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 1000000000.000000 Bq (Actual Activity: 34619.542787)
+	Shipment License Percentage: 9.356633%
+
+#####Isotope 1:#####
+Name: Mn-54
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 34619.5 Bq (Decay Time: 30 days)
+Half-Life (days): 312.7
+Decay Constant (d-1): 0.00221665
+DPM: 2.07717e+06
+Mn-54 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 9.35663%
+	Percentage of Activity Limit: 0.00346195%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2029-Mar-01
+**********************************
+
+Date Shipment can be packaged as Exempt: 2025-Mar-30
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 18 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 1000000.000000 Bq (Actual Activity: 36227.988543)
+	Shipment Activity Concentration Limit: 10000.000000 Bq/g (Actual Concentraion: 1811.399427)
+	Shipment License Percentage: 0.979135%
+
+#####Isotope 1:#####
+Name: Fe-55
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 36228 Bq (Decay Time: 30 days)
+Half-Life (days): 986.175
+Decay Constant (d-1): 0.000702864
+DPM: 2.17368e+06
+Fe-55 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 0.979135%
+	Percentage of Activity Limit: 3.6228%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2051-Jul-04
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 19 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 100000.000000 Bq (Actual Activity: 0.000000)
+	Shipment Activity Concentration Limit: 10.000000 Bq/g (Actual Concentraion: 0.000000)
+	Shipment License Percentage: 0.000000%
+
+#####Isotope 1:#####
+Name: Mn-56
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 3.24602e-80 Bq (Decay Time: 30 days)
+Half-Life (days): 0.107438
+Decay Constant (d-1): 6.4516
+DPM: 1.94761e-78
+Mn-56 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 8.77303e-84%
+	Percentage of Activity Limit: 3.24602e-83%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2018-Oct-18
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 20 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: No
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 300000000.000000 Bq (Actual Activity: 28414.380440)
+	Shipment License Percentage: 767.956228%
+
+#####Isotope 1:#####
+Name: Co-56
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 28414.4 Bq (Decay Time: 30 days)
+Half-Life (days): 78.76
+Decay Constant (d-1): 0.00880075
+DPM: 1.70486e+06
+Co-56 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 767.956%
+	Percentage of Activity Limit: 0.00947146%
+
+
+Exempt from Licensing on 2019-Jul-05
+Decay Date (< 500dpm): 2021-May-28
+**********************************
+
+Date Shipment can be packaged as Exempt: 2020-Jun-02
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 21 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 10000000000.000000 Bq (Actual Activity: 34274.745028)
+	Shipment License Percentage: 0.926344%
+
+#####Isotope 1:#####
+Name: Co-57
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 34274.7 Bq (Decay Time: 30 days)
+Half-Life (days): 271.79
+Decay Constant (d-1): 0.0025503
+DPM: 2.05648e+06
+Co-57 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 0.926344%
+	Percentage of Activity Limit: 0.000342747%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2027-Oct-23
+**********************************
+
+Date Shipment can be packaged as Exempt: 2021-Dec-05
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 22 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 900000000.000000 Bq (Actual Activity: 23212.139927)
+	Shipment License Percentage: 6.273551%
+
+#####Isotope 1:#####
+Name: Fe-59
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 23212.1 Bq (Decay Time: 30 days)
+Half-Life (days): 44.6
+Decay Constant (d-1): 0.0155414
+DPM: 1.39273e+06
+Fe-59 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 6.27355%
+	Percentage of Activity Limit: 0.00257913%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2020-Apr-09
+**********************************
+
+Date Shipment can be packaged as Exempt: 2019-Sep-18
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 23 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 400000000.000000 Bq (Actual Activity: 36602.438920)
+	Shipment License Percentage: 98.925511%
+
+#####Isotope 1:#####
+Name: Co-60
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 36602.4 Bq (Decay Time: 30 days)
+Half-Life (days): 1924.87
+Decay Constant (d-1): 0.000360101
+DPM: 2.19615e+06
+Co-60 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 98.9255%
+	Percentage of Activity Limit: 0.00915061%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2082-Aug-24
+**********************************
+
+Date Shipment can be packaged as Exempt: +infinity
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 24 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 100000000.000000 Bq (Actual Activity: 36978.962185)
+	Shipment Activity Concentration Limit: 100000.000000 Bq/g (Actual Concentraion: 1848.948109)
+	Shipment License Percentage: 9.994314%
+
+#####Isotope 1:#####
+Name: Ni-63
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 36979 Bq (Decay Time: 30 days)
+Half-Life (days): 36561.5
+Decay Constant (d-1): 1.89584e-05
+DPM: 2.21874e+06
+Ni-63 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 9.99431%
+	Percentage of Activity Limit: 0.036979%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 3231-Aug-31
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 25 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 2000000000.000000 Bq (Actual Activity: 33982.115783)
+	Shipment License Percentage: 9.184356%
+
+#####Isotope 1:#####
+Name: Zn-65
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 33982.1 Bq (Decay Time: 30 days)
+Half-Life (days): 244.4
+Decay Constant (d-1): 0.00283612
+DPM: 2.03893e+06
+Zn-65 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 9.18436%
+	Percentage of Activity Limit: 0.00169911%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2026-Nov-25
+**********************************
+
+Date Shipment can be packaged as Exempt: 2023-Nov-01
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 26 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 1000000.000000 Bq (Actual Activity: 62.926929)
+	Shipment Activity Concentration Limit: 10.000000 Bq/g (Actual Concentraion: 3.146346)
+	Shipment License Percentage: 0.001701%
+
+#####Isotope 1:#####
+Name: Ga-67
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 62.9269 Bq (Decay Time: 30 days)
+Half-Life (days): 3.261
+Decay Constant (d-1): 0.212557
+DPM: 3775.62
+Ga-67 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 0.00170073%
+	Percentage of Activity Limit: 0.00629269%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2018-Nov-25
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 27 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: No
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 500000000.000000 Bq (Actual Activity: 34422.660444)
+	Shipment License Percentage: 930.342174%
+
+#####Isotope 1:#####
+Name: Ge-68
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 34422.7 Bq (Decay Time: 30 days)
+Half-Life (days): 288
+Decay Constant (d-1): 0.00240676
+DPM: 2.06536e+06
+Ge-68 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 930.342%
+	Percentage of Activity Limit: 0.00688453%
+
+
+Exempt from Licensing on 2021-May-30
+Decay Date (< 500dpm): 2028-May-06
+**********************************
+
+Date Shipment can be packaged as Exempt: 2024-Sep-25
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 28 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 3000000000.000000 Bq (Actual Activity: 31103.266367)
+	Shipment License Percentage: 8.406288%
+
+#####Isotope 1:#####
+Name: Se-75
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 31103.3 Bq (Decay Time: 30 days)
+Half-Life (days): 119.78
+Decay Constant (d-1): 0.00578684
+DPM: 1.8662e+06
+Se-75 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 8.40629%
+	Percentage of Activity Limit: 0.00103678%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2022-Oct-07
+**********************************
+
+Date Shipment can be packaged as Exempt: 2020-Mar-05
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 29 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: No
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 200000000.000000 Bq (Actual Activity: 16105.185421)
+	Shipment License Percentage: 435.275282%
+
+#####Isotope 1:#####
+Name: Sr-82
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 16105.2 Bq (Decay Time: 30 days)
+Half-Life (days): 25
+Decay Constant (d-1): 0.0277259
+DPM: 966311
+Sr-82 Classification: Excepted
+Reportable Quantity?: Yes
+
+Percentages: 
+	Percentage of Licensing Limit: 435.275%
+	Percentage of Activity Limit: 0.00805259%
+
+
+Exempt from Licensing on 2019-Jan-08
+Decay Date (< 500dpm): 2019-Aug-15
+**********************************
+
+Date Shipment can be packaged as Exempt: 2019-Apr-24
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 30 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 1000000.000000 Bq (Actual Activity: 0.030675)
+	Shipment Activity Concentration Limit: 10.000000 Bq/g (Actual Concentraion: 0.001534)
+	Shipment License Percentage: 0.000008%
+
+#####Isotope 1:#####
+Name: Br-82
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 0.0306752 Bq (Decay Time: 30 days)
+Half-Life (days): 1.485
+Decay Constant (d-1): 0.466766
+DPM: 1.84051
+Br-82 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 8.2906e-06%
+	Percentage of Activity Limit: 3.06752e-06%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2018-Nov-03
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 31 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 10000000000.000000 Bq (Actual Activity: 36804.541243)
+	Shipment License Percentage: 0.994717%
+
+#####Isotope 1:#####
+Name: Kr-85
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 36804.5 Bq (Decay Time: 30 days)
+Half-Life (days): 3925.94
+Decay Constant (d-1): 0.000176556
+DPM: 2.20827e+06
+Kr-85 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 0.994717%
+	Percentage of Activity Limit: 0.000368045%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2149-Jan-11
+**********************************
+
+Date Shipment can be packaged as Exempt: 2039-Jan-31
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 32 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 500000000.000000 Bq (Actual Activity: 12169.308535)
+	Shipment License Percentage: 3.289002%
+
+#####Isotope 1:#####
+Name: Rb-86
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 12169.3 Bq (Decay Time: 30 days)
+Half-Life (days): 18.7
+Decay Constant (d-1): 0.0370667
+DPM: 730159
+Rb-86 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 3.289%
+	Percentage of Activity Limit: 0.00243386%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2019-May-31
+**********************************
+
+Date Shipment can be packaged as Exempt: 2019-Jan-04
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 33 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 400000000.000000 Bq (Actual Activity: 30442.764584)
+	Shipment License Percentage: 8.227774%
+
+#####Isotope 1:#####
+Name: Y-88
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 30442.8 Bq (Decay Time: 30 days)
+Half-Life (days): 106.6
+Decay Constant (d-1): 0.00650232
+DPM: 1.82657e+06
+Y-88 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 8.22777%
+	Percentage of Activity Limit: 0.00761069%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2022-Apr-30
+**********************************
+
+Date Shipment can be packaged as Exempt: 2020-Dec-28
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 34 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 600000000.000000 Bq (Actual Activity: 24521.605859)
+	Shipment License Percentage: 66.274610%
+
+#####Isotope 1:#####
+Name: Sr-89
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 24521.6 Bq (Decay Time: 30 days)
+Half-Life (days): 50.55
+Decay Constant (d-1): 0.0137121
+DPM: 1.4713e+06
+Sr-89 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 66.2746%
+	Percentage of Activity Limit: 0.00408693%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2020-Jun-20
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Dec-01
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 35 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: No
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 300000000.000000 Bq (Actual Activity: 36926.419964)
+	Shipment License Percentage: 998.011350%
+
+#####Isotope 1:#####
+Name: Sr-90
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 36926.4 Bq (Decay Time: 30 days)
+Half-Life (days): 10446.1
+Decay Constant (d-1): 6.63543e-05
+DPM: 2.21559e+06
+Sr-90 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 998.011%
+	Percentage of Activity Limit: 0.0123088%
+
+
+Exempt from Licensing on 2113-Oct-20
+Decay Date (< 500dpm): 2365-Apr-30
+**********************************
+
+Date Shipment can be packaged as Exempt: +infinity
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 36 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 100000.000000 Bq (Actual Activity: 15.340596)
+	Shipment Activity Concentration Limit: 1000.000000 Bq/g (Actual Concentraion: 0.767030)
+	Shipment License Percentage: 0.004146%
+
+#####Isotope 1:#####
+Name: Y-90
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 15.3406 Bq (Decay Time: 30 days)
+Half-Life (days): 2.67
+Decay Constant (d-1): 0.259606
+DPM: 920.436
+Y-90 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 0.00414611%
+	Percentage of Activity Limit: 0.0153406%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2018-Nov-18
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 37 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: No
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 2000000000.000000 Bq (Actual Activity: 26312.019675)
+	Shipment License Percentage: 711.135667%
+
+#####Isotope 1:#####
+Name: Tc-95m
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 26312 Bq (Decay Time: 30 days)
+Half-Life (days): 61
+Decay Constant (d-1): 0.0113631
+DPM: 1.57872e+06
+Tc-95m Classification: Excepted
+Reportable Quantity?: Yes
+
+Percentages: 
+	Percentage of Licensing Limit: 711.136%
+	Percentage of Activity Limit: 0.0013156%
+
+
+Exempt from Licensing on 2019-May-07
+Decay Date (< 500dpm): 2020-Oct-25
+**********************************
+
+Date Shipment can be packaged as Exempt: 2020-Jan-20
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 38 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 800000000.000000 Bq (Actual Activity: 26738.558849)
+	Shipment License Percentage: 7.226638%
+
+#####Isotope 1:#####
+Name: Zr-95
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 26738.6 Bq (Decay Time: 30 days)
+Half-Life (days): 64.02
+Decay Constant (d-1): 0.010827
+DPM: 1.60431e+06
+Zr-95 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 7.22664%
+	Percentage of Activity Limit: 0.00334232%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2020-Nov-30
+**********************************
+
+Date Shipment can be packaged as Exempt: 2020-Feb-12
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 39 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 1000000.000000 Bq (Actual Activity: 0.000000)
+	Shipment Activity Concentration Limit: 10.000000 Bq/g (Actual Concentraion: 0.000000)
+	Shipment License Percentage: 0.000000%
+
+#####Isotope 1:#####
+Name: Nb-97
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 3.40136e-14 Bq (Decay Time: 30 days)
+Half-Life (days): 0.5007
+Decay Constant (d-1): 1.38436
+DPM: 2.04082e-12
+Nb-97 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 9.19288e-18%
+	Percentage of Activity Limit: 3.40136e-18%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2018-Oct-23
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 40 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 1000000.000000 Bq (Actual Activity: 19.241465)
+	Shipment Activity Concentration Limit: 100.000000 Bq/g (Actual Concentraion: 0.962073)
+	Shipment License Percentage: 0.000520%
+
+#####Isotope 1:#####
+Name: Mo-99
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 19.2415 Bq (Decay Time: 30 days)
+Half-Life (days): 2.75
+Decay Constant (d-1): 0.252054
+DPM: 1154.49
+Mo-99 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 0.00052004%
+	Percentage of Activity Limit: 0.00192415%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2018-Nov-19
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 41 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 10000000.000000 Bq (Actual Activity: 0.000000)
+	Shipment Activity Concentration Limit: 100.000000 Bq/g (Actual Concentraion: 0.000000)
+	Shipment License Percentage: 0.000000%
+
+#####Isotope 1:#####
+Name: Tc-99m
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 3.87722e-32 Bq (Decay Time: 30 days)
+Half-Life (days): 0.251
+Decay Constant (d-1): 2.76154
+DPM: 2.32633e-30
+Tc-99m Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 1.0479e-36%
+	Percentage of Activity Limit: 3.87722e-37%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2018-Oct-20
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 42 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 10000000.000000 Bq (Actual Activity: 36999.990110)
+	Shipment Activity Concentration Limit: 10000.000000 Bq/g (Actual Concentraion: 1849.999506)
+	Shipment License Percentage: 9.999997%
+
+#####Isotope 1:#####
+Name: Tc-99
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 37000 Bq (Decay Time: 30 days)
+Half-Life (days): 7.77983e+07
+Decay Constant (d-1): 8.90955e-09
+DPM: 2.22e+06
+Tc-99 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 10%
+	Percentage of Activity Limit: 0.37%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 9999-Dec-31
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 43 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 2000000000.000000 Bq (Actual Activity: 21812.217591)
+	Shipment License Percentage: 5.895194%
+
+#####Isotope 1:#####
+Name: Ru-103
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 21812.2 Bq (Decay Time: 30 days)
+Half-Life (days): 39.35
+Decay Constant (d-1): 0.0176149
+DPM: 1.30873e+06
+Ru-103 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 5.89519%
+	Percentage of Activity Limit: 0.00109061%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2020-Feb-05
+**********************************
+
+Date Shipment can be packaged as Exempt: 2019-Apr-01
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 44 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 100000000.000000 Bq (Actual Activity: 10857.239559)
+	Shipment Activity Concentration Limit: 1000.000000 Bq/g (Actual Concentraion: 542.861978)
+	Shipment License Percentage: 0.293439%
+
+#####Isotope 1:#####
+Name: Pd-103
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 10857.2 Bq (Decay Time: 30 days)
+Half-Life (days): 16.96
+Decay Constant (d-1): 0.0408695
+DPM: 651434
+Pd-103 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 0.293439%
+	Percentage of Activity Limit: 0.0108572%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2019-May-10
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 45 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 200000000.000000 Bq (Actual Activity: 34996.807835)
+	Shipment License Percentage: 94.585967%
+
+#####Isotope 1:#####
+Name: Ru-106
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 34996.8 Bq (Decay Time: 30 days)
+Half-Life (days): 373.59
+Decay Constant (d-1): 0.00185537
+DPM: 2.09981e+06
+Ru-106 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 94.586%
+	Percentage of Activity Limit: 0.0174984%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2031-Mar-09
+**********************************
+
+Date Shipment can be packaged as Exempt: 2023-Feb-06
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 46 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 1000000.000000 Bq (Actual Activity: 35373.633761)
+	Shipment Activity Concentration Limit: 10000.000000 Bq/g (Actual Concentraion: 1768.681688)
+	Shipment License Percentage: 9.560442%
+
+#####Isotope 1:#####
+Name: Cd-109
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 35373.6 Bq (Decay Time: 30 days)
+Half-Life (days): 462.6
+Decay Constant (d-1): 0.00149837
+DPM: 2.12242e+06
+Cd-109 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 9.56044%
+	Percentage of Activity Limit: 3.53736%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2034-Feb-20
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 47 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 400000000.000000 Bq (Actual Activity: 34044.562323)
+	Shipment License Percentage: 92.012331%
+
+#####Isotope 1:#####
+Name: Ag-110m
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 34044.6 Bq (Decay Time: 30 days)
+Half-Life (days): 249.79
+Decay Constant (d-1): 0.00277492
+DPM: 2.04267e+06
+Ag-110m Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 92.0123%
+	Percentage of Activity Limit: 0.00851114%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2027-Jan-29
+**********************************
+
+Date Shipment can be packaged as Exempt: 2023-Dec-12
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 48 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 1000000.000000 Bq (Actual Activity: 23.827091)
+	Shipment Activity Concentration Limit: 100.000000 Bq/g (Actual Concentraion: 1.191355)
+	Shipment License Percentage: 0.000644%
+
+#####Isotope 1:#####
+Name: In-111
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 23.8271 Bq (Decay Time: 30 days)
+Half-Life (days): 2.83
+Decay Constant (d-1): 0.244928
+DPM: 1429.63
+In-111 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 0.000643975%
+	Percentage of Activity Limit: 0.00238271%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2018-Nov-20
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 49 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 2000000000.000000 Bq (Actual Activity: 30884.486662)
+	Shipment License Percentage: 8.347159%
+
+#####Isotope 1:#####
+Name: Sn-113
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 30884.5 Bq (Decay Time: 30 days)
+Half-Life (days): 115.1
+Decay Constant (d-1): 0.00602213
+DPM: 1.85307e+06
+Sn-113 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 8.34716%
+	Percentage of Activity Limit: 0.00154422%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2022-Aug-11
+**********************************
+
+Date Shipment can be packaged as Exempt: 2019-Jan-28
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 50 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: No
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 30000000000.000000 Bq (Actual Activity: 34465.934326)
+	Shipment License Percentage: 931.511739%
+
+#####Isotope 1:#####
+Name: Sn-119m
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 34465.9 Bq (Decay Time: 30 days)
+Half-Life (days): 293.1
+Decay Constant (d-1): 0.00236488
+DPM: 2.06796e+06
+Sn-119m Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 931.512%
+	Percentage of Activity Limit: 0.000114886%
+
+
+Exempt from Licensing on 2021-Jun-16
+Decay Date (< 500dpm): 2028-Jul-07
+**********************************
+
+Date Shipment can be packaged as Exempt: 2019-Jul-05
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 51 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 10000.000000 Bq (Actual Activity: 17.901664)
+	Shipment Activity Concentration Limit: 100.000000 Bq/g (Actual Concentraion: 0.895083)
+	Shipment License Percentage: 0.000484%
+
+#####Isotope 1:#####
+Name: Sb-122
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 17.9017 Bq (Decay Time: 30 days)
+Half-Life (days): 2.724
+Decay Constant (d-1): 0.254459
+DPM: 1074.1
+Sb-122 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 0.000483829%
+	Percentage of Activity Limit: 0.179017%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2018-Nov-19
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 52 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 10000000.000000 Bq (Actual Activity: 0.000000)
+	Shipment Activity Concentration Limit: 100.000000 Bq/g (Actual Concentraion: 0.000000)
+	Shipment License Percentage: 0.000000%
+
+#####Isotope 1:#####
+Name: I-123
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 1.14375e-12 Bq (Decay Time: 30 days)
+Half-Life (days): 0.547
+Decay Constant (d-1): 1.26718
+DPM: 6.86248e-11
+I-123 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 3.09121e-17%
+	Percentage of Activity Limit: 1.14375e-17%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2018-Oct-23
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 53 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 600000000.000000 Bq (Actual Activity: 26193.092465)
+	Shipment License Percentage: 7.079214%
+
+#####Isotope 1:#####
+Name: Sb-124
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 26193.1 Bq (Decay Time: 30 days)
+Half-Life (days): 60.2
+Decay Constant (d-1): 0.0115141
+DPM: 1.57159e+06
+Sb-124 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 7.07921%
+	Percentage of Activity Limit: 0.00436552%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2020-Oct-15
+**********************************
+
+Date Shipment can be packaged as Exempt: 2020-Jan-14
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 54 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 1000000000.000000 Bq (Actual Activity: 252.649418)
+	Shipment License Percentage: 6.828363%
+
+#####Isotope 1:#####
+Name: I-124
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 252.649 Bq (Decay Time: 30 days)
+Half-Life (days): 4.17
+Decay Constant (d-1): 0.166222
+DPM: 15159
+I-124 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 6.82836%
+	Percentage of Activity Limit: 2.52649e-05%
+
+
+Exempt from Licensing on 2018-Oct-30
+Decay Date (< 500dpm): 2018-Dec-06
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-18
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 55 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 3000000000.000000 Bq (Actual Activity: 26184.067407)
+	Shipment License Percentage: 70.767750%
+
+#####Isotope 1:#####
+Name: I-125
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 26184.1 Bq (Decay Time: 30 days)
+Half-Life (days): 60.14
+Decay Constant (d-1): 0.0115256
+DPM: 1.57104e+06
+I-125 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 70.7677%
+	Percentage of Activity Limit: 0.000872802%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2020-Oct-14
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Dec-10
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 56 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 700000000.000000 Bq (Actual Activity: 2785.835521)
+	Shipment License Percentage: 7.529285%
+
+#####Isotope 1:#####
+Name: I-131
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 2785.84 Bq (Decay Time: 30 days)
+Half-Life (days): 8.04
+Decay Constant (d-1): 0.0862123
+DPM: 167150
+I-131 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 7.52929%
+	Percentage of Activity Limit: 0.000397977%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2019-Jan-22
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-20
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 57 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 10000.000000 Bq (Actual Activity: 702.086302)
+	Shipment Activity Concentration Limit: 1000.000000 Bq/g (Actual Concentraion: 35.104315)
+	Shipment License Percentage: 0.018975%
+
+#####Isotope 1:#####
+Name: Xe-133
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 702.086 Bq (Decay Time: 30 days)
+Half-Life (days): 5.245
+Decay Constant (d-1): 0.132154
+DPM: 42125.2
+Xe-133 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 0.0189753%
+	Percentage of Activity Limit: 7.02086%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2018-Dec-19
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 58 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: No
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 3000000000.000000 Bq (Actual Activity: 36800.115206)
+	Shipment License Percentage: 994.597708%
+
+#####Isotope 1:#####
+Name: Ba-133
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 36800.1 Bq (Decay Time: 30 days)
+Half-Life (days): 3838.78
+Decay Constant (d-1): 0.000180565
+DPM: 2.20801e+06
+Ba-133 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 994.598%
+	Percentage of Activity Limit: 0.00122667%
+
+
+Exempt from Licensing on 2053-Sep-15
+Decay Date (< 500dpm): 2146-Feb-19
+**********************************
+
+Date Shipment can be packaged as Exempt: +infinity
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 59 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 700000000.000000 Bq (Actual Activity: 35992.400615)
+	Shipment License Percentage: 97.276758%
+
+#####Isotope 1:#####
+Name: Cs-134
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 35992.4 Bq (Decay Time: 30 days)
+Half-Life (days): 753.145
+Decay Constant (d-1): 0.000920336
+DPM: 2.15954e+06
+Cs-134 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 97.2768%
+	Percentage of Activity Limit: 0.00514177%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2043-Oct-11
+**********************************
+
+Date Shipment can be packaged as Exempt: 2034-Apr-29
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 60 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 600000000.000000 Bq (Actual Activity: 36930.245344)
+	Shipment License Percentage: 9.981147%
+
+#####Isotope 1:#####
+Name: Cs-137
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 36930.2 Bq (Decay Time: 30 days)
+Half-Life (days): 11019.6
+Decay Constant (d-1): 6.29013e-05
+DPM: 2.21581e+06
+Cs-137 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 9.98115%
+	Percentage of Activity Limit: 0.00615504%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2384-May-08
+**********************************
+
+Date Shipment can be packaged as Exempt: +infinity
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 61 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 100000.000000 Bq (Actual Activity: 0.156987)
+	Shipment Activity Concentration Limit: 10.000000 Bq/g (Actual Concentraion: 0.007849)
+	Shipment License Percentage: 0.000042%
+
+#####Isotope 1:#####
+Name: La-140
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 0.156987 Bq (Decay Time: 30 days)
+Half-Life (days): 1.681
+Decay Constant (d-1): 0.412342
+DPM: 9.41922
+La-140 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 4.24289e-05%
+	Percentage of Activity Limit: 0.000156987%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2018-Nov-06
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 62 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 600000000.000000 Bq (Actual Activity: 19513.172415)
+	Shipment License Percentage: 0.527383%
+
+#####Isotope 1:#####
+Name: Ce-141
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 19513.2 Bq (Decay Time: 30 days)
+Half-Life (days): 32.5
+Decay Constant (d-1): 0.0213276
+DPM: 1.17079e+06
+Ce-141 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 0.527383%
+	Percentage of Activity Limit: 0.0032522%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2019-Nov-14
+**********************************
+
+Date Shipment can be packaged as Exempt: 2019-Mar-03
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 63 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 10000000.000000 Bq (Actual Activity: 36205.690461)
+	Shipment Activity Concentration Limit: 10000.000000 Bq/g (Actual Concentraion: 1810.284523)
+	Shipment License Percentage: 9.785322%
+
+#####Isotope 1:#####
+Name: Pm-147
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 36205.7 Bq (Decay Time: 30 days)
+Half-Life (days): 958.197
+Decay Constant (d-1): 0.000723387
+DPM: 2.17234e+06
+Pm-147 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 9.78532%
+	Percentage of Activity Limit: 0.362057%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2050-Jul-30
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 64 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: No
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 2000000.000000 Bq (Actual Activity: 36971.773718)
+	Shipment License Percentage: 999.237128%
+
+#####Isotope 1:#####
+Name: Gd-148
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 36971.8 Bq (Decay Time: 30 days)
+Half-Life (days): 27247.7
+Decay Constant (d-1): 2.54388e-05
+DPM: 2.21831e+06
+Gd-148 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 999.237%
+	Percentage of Activity Limit: 1.84859%
+
+
+Exempt from Licensing on 2266-Aug-12
+Decay Date (< 500dpm): 2922-Sep-09
+**********************************
+
+Date Shipment can be packaged as Exempt: +infinity
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 65 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 1000000000.000000 Bq (Actual Activity: 36845.435196)
+	Shipment License Percentage: 99.582257%
+
+#####Isotope 1:#####
+Name: Eu-152
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 36845.4 Bq (Decay Time: 30 days)
+Half-Life (days): 4967.4
+Decay Constant (d-1): 0.000139539
+DPM: 2.21073e+06
+Eu-152 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 99.5823%
+	Percentage of Activity Limit: 0.00368454%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2183-Jul-30
+**********************************
+
+Date Shipment can be packaged as Exempt: +infinity
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 66 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 1000000.000000 Bq (Actual Activity: 0.846158)
+	Shipment Activity Concentration Limit: 100.000000 Bq/g (Actual Concentraion: 0.042308)
+	Shipment License Percentage: 0.000023%
+
+#####Isotope 1:#####
+Name: Sm-153
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 0.846158 Bq (Decay Time: 30 days)
+Half-Life (days): 1.946
+Decay Constant (d-1): 0.356191
+DPM: 50.7695
+Sm-153 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 2.28691e-05%
+	Percentage of Activity Limit: 8.46158e-05%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2018-Nov-09
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 67 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 600000000.000000 Bq (Actual Activity: 36761.399441)
+	Shipment License Percentage: 99.355134%
+
+#####Isotope 1:#####
+Name: Eu-154
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 36761.4 Bq (Decay Time: 30 days)
+Half-Life (days): 3214.2
+Decay Constant (d-1): 0.000215652
+DPM: 2.20568e+06
+Eu-154 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 99.3551%
+	Percentage of Activity Limit: 0.0061269%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2125-Jun-02
+**********************************
+
+Date Shipment can be packaged as Exempt: +infinity
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 68 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 9000000000.000002 Bq (Actual Activity: 33948.623641)
+	Shipment License Percentage: 9.175304%
+
+#####Isotope 1:#####
+Name: Gd-153
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 33948.6 Bq (Decay Time: 30 days)
+Half-Life (days): 241.6
+Decay Constant (d-1): 0.00286899
+DPM: 2.03692e+06
+Gd-153 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 9.1753%
+	Percentage of Activity Limit: 0.000377207%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2026-Oct-22
+**********************************
+
+Date Shipment can be packaged as Exempt: 2021-Jul-31
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 69 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: No
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 1000000000.000000 Bq (Actual Activity: 19329.259525)
+	Shipment License Percentage: 522.412420%
+
+#####Isotope 1:#####
+Name: Yb-169
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 19329.3 Bq (Decay Time: 30 days)
+Half-Life (days): 32.026
+Decay Constant (d-1): 0.0216433
+DPM: 1.15976e+06
+Yb-169 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 522.412%
+	Percentage of Activity Limit: 0.00193293%
+
+
+Exempt from Licensing on 2019-Jan-31
+Decay Date (< 500dpm): 2019-Nov-09
+**********************************
+
+Date Shipment can be packaged as Exempt: 2019-Mar-01
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 70 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 10000000.000000 Bq (Actual Activity: 1686.987064)
+	Shipment Activity Concentration Limit: 1000.000000 Bq/g (Actual Concentraion: 84.349353)
+	Shipment License Percentage: 0.045594%
+
+#####Isotope 1:#####
+Name: Lu-177
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 1686.99 Bq (Decay Time: 30 days)
+Half-Life (days): 6.734
+Decay Constant (d-1): 0.102932
+DPM: 101219
+Lu-177 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 0.0455942%
+	Percentage of Activity Limit: 0.0168699%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2019-Jan-06
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 71 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 500000000.000000 Bq (Actual Activity: 30851.834120)
+	Shipment License Percentage: 8.338334%
+
+#####Isotope 1:#####
+Name: Ta-182
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 30851.8 Bq (Decay Time: 30 days)
+Half-Life (days): 114.43
+Decay Constant (d-1): 0.00605739
+DPM: 1.85111e+06
+Ta-182 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 8.33833%
+	Percentage of Activity Limit: 0.00617037%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2022-Aug-03
+**********************************
+
+Date Shipment can be packaged as Exempt: 2021-Feb-25
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 72 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 1000000.000000 Bq (Actual Activity: 0.000027)
+	Shipment Activity Concentration Limit: 100.000000 Bq/g (Actual Concentraion: 0.000001)
+	Shipment License Percentage: 0.000000%
+
+#####Isotope 1:#####
+Name: W-187
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 2.69586e-05 Bq (Decay Time: 30 days)
+Half-Life (days): 0.988333
+Decay Constant (d-1): 0.701329
+DPM: 0.00161752
+W-187 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 7.28611e-10%
+	Percentage of Activity Limit: 2.69586e-09%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2018-Oct-28
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 73 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 600000000.000000 Bq (Actual Activity: 27938.012755)
+	Shipment License Percentage: 7.550814%
+
+#####Isotope 1:#####
+Name: Ir-192
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 27938 Bq (Decay Time: 30 days)
+Half-Life (days): 74.02
+Decay Constant (d-1): 0.00936432
+DPM: 1.67628e+06
+Ir-192 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 7.55081%
+	Percentage of Activity Limit: 0.00465634%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2021-Mar-31
+**********************************
+
+Date Shipment can be packaged as Exempt: 2020-Apr-27
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 74 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 1000000.000000 Bq (Actual Activity: 0.000029)
+	Shipment Activity Concentration Limit: 100.000000 Bq/g (Actual Concentraion: 0.000001)
+	Shipment License Percentage: 0.000000%
+
+#####Isotope 1:#####
+Name: Hg-197m
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 2.89342e-05 Bq (Decay Time: 30 days)
+Half-Life (days): 0.991667
+Decay Constant (d-1): 0.698972
+DPM: 0.00173605
+Hg-197m Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 7.82006e-10%
+	Percentage of Activity Limit: 2.89342e-09%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2018-Oct-29
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 75 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 1000000.000000 Bq (Actual Activity: 16.727229)
+	Shipment Activity Concentration Limit: 100.000000 Bq/g (Actual Concentraion: 0.836361)
+	Shipment License Percentage: 0.000452%
+
+#####Isotope 1:#####
+Name: Au-198
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 16.7272 Bq (Decay Time: 30 days)
+Half-Life (days): 2.7
+Decay Constant (d-1): 0.256721
+DPM: 1003.63
+Au-198 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 0.000452087%
+	Percentage of Activity Limit: 0.00167272%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2018-Nov-18
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 76 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 1000000.000000 Bq (Actual Activity: 39.940606)
+	Shipment Activity Concentration Limit: 100.000000 Bq/g (Actual Concentraion: 1.997030)
+	Shipment License Percentage: 0.001079%
+
+#####Isotope 1:#####
+Name: Tl-201
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 39.9406 Bq (Decay Time: 30 days)
+Half-Life (days): 3.044
+Decay Constant (d-1): 0.227709
+DPM: 2396.44
+Tl-201 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 0.00107948%
+	Percentage of Activity Limit: 0.00399406%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2018-Nov-22
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 77 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 1000000000.000000 Bq (Actual Activity: 23683.570019)
+	Shipment License Percentage: 6.400965%
+
+#####Isotope 1:#####
+Name: Hg-203
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 23683.6 Bq (Decay Time: 30 days)
+Half-Life (days): 46.61
+Decay Constant (d-1): 0.0148712
+DPM: 1.42101e+06
+Hg-203 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 6.40096%
+	Percentage of Activity Limit: 0.00236836%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2020-May-03
+**********************************
+
+Date Shipment can be packaged as Exempt: 2019-May-02
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 78 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 700000000.000000 Bq (Actual Activity: 36446.904680)
+	Shipment License Percentage: 9.850515%
+
+#####Isotope 1:#####
+Name: Tl-204
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 36446.9 Bq (Decay Time: 30 days)
+Half-Life (days): 1380.64
+Decay Constant (d-1): 0.000502046
+DPM: 2.18681e+06
+Tl-204 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 9.85051%
+	Percentage of Activity Limit: 0.0052067%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2064-Aug-04
+**********************************
+
+Date Shipment can be packaged as Exempt: 2025-Dec-06
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 79 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: No
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 700000000.000000 Bq (Actual Activity: 36936.985331)
+	Shipment License Percentage: 998.296901%
+
+#####Isotope 1:#####
+Name: Bi-207
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 36937 Bq (Decay Time: 30 days)
+Half-Life (days): 12199.4
+Decay Constant (d-1): 5.68184e-05
+DPM: 2.21622e+06
+Bi-207 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 998.297%
+	Percentage of Activity Limit: 0.00527671%
+
+
+Exempt from Licensing on 2129-Sep-30
+Decay Date (< 500dpm): 2423-Jun-27
+**********************************
+
+Date Shipment can be packaged as Exempt: +infinity
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 80 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: No
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 50000000.000000 Bq (Actual Activity: 36905.489992)
+	Shipment License Percentage: 997.445675%
+
+#####Isotope 1:#####
+Name: Pb-210
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 36905.5 Bq (Decay Time: 30 days)
+Half-Life (days): 8130.47
+Decay Constant (d-1): 8.52531e-05
+DPM: 2.21433e+06
+Pb-210 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 997.446%
+	Percentage of Activity Limit: 0.073811%
+
+
+Exempt from Licensing on 2092-Sep-26
+Decay Date (< 500dpm): 2288-Jul-04
+**********************************
+
+Date Shipment can be packaged as Exempt: +infinity
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 81 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: No
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 20000000.000000 Bq (Actual Activity: 31837.516517)
+	Shipment License Percentage: 860.473419%
+
+#####Isotope 1:#####
+Name: Po-210
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 31837.5 Bq (Decay Time: 30 days)
+Half-Life (days): 138.378
+Decay Constant (d-1): 0.00500908
+DPM: 1.91025e+06
+Po-210 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 860.473%
+	Percentage of Activity Limit: 0.159188%
+
+
+Exempt from Licensing on 2020-Jan-19
+Decay Date (< 500dpm): 2023-May-20
+**********************************
+
+Date Shipment can be packaged as Exempt: 2021-Aug-25
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 82 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 1000000.000000 Bq (Actual Activity: 35913.403391)
+	Shipment License Percentage: -inf%
+
+#####Isotope 1:#####
+Name: Th-228
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 35913.4 Bq (Decay Time: 30 days)
+Half-Life (days): 697.628
+Decay Constant (d-1): 0.000993578
+DPM: 2.1548e+06
+Th-228 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: -inf%
+	Percentage of Activity Limit: 3.59134%
+
+
+Exempt from Licensing on -infinity
+Decay Date (< 500dpm): 2041-Dec-07
+**********************************
+
+Date Shipment can be packaged as Exempt: 2039-Jul-11
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 83 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 1000000.000000 Bq (Actual Activity: 36999.972055)
+	Shipment License Percentage: -inf%
+
+#####Isotope 1:#####
+Name: Th-230
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 37000 Bq (Decay Time: 30 days)
+Half-Life (days): 2.75325e+07
+Decay Constant (d-1): 2.51756e-08
+DPM: 2.22e+06
+Th-230 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: -inf%
+	Percentage of Activity Limit: 3.7%
+
+
+Exempt from Licensing on -infinity
+Decay Date (< 500dpm): 9999-Dec-31
+**********************************
+
+Date Shipment can be packaged as Exempt: +infinity
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 84 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 1000000.000000 Bq (Actual Activity: 37000.000000)
+	Shipment License Percentage: -inf%
+
+#####Isotope 1:#####
+Name: U-238
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 37000 Bq (Decay Time: 30 days)
+Half-Life (days): 1.63267e+12
+Decay Constant (d-1): 4.24549e-13
+DPM: 2.22e+06
+U-238 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: -inf%
+	Percentage of Activity Limit: 3.7%
+
+
+Exempt from Licensing on -infinity
+Decay Date (< 500dpm): 1400-Jan-01
+**********************************
+
+Date Shipment can be packaged as Exempt: +infinity
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 85 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 1000000.000000 Bq (Actual Activity: 36999.912706)
+	Shipment License Percentage: -inf%
+
+#####Isotope 1:#####
+Name: Pu-239
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 36999.9 Bq (Decay Time: 30 days)
+Half-Life (days): 8.81385e+06
+Decay Constant (d-1): 7.8643e-08
+DPM: 2.21999e+06
+Pu-239 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: -inf%
+	Percentage of Activity Limit: 3.69999%
+
+
+Exempt from Licensing on -infinity
+Decay Date (< 500dpm): 9999-Dec-31
+**********************************
+
+Date Shipment can be packaged as Exempt: +infinity
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 86 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: No
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 1000000.000000 Bq (Actual Activity: 36995.126456)
+	Shipment License Percentage: inf%
+
+#####Isotope 1:#####
+Name: Am-241
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 36995.1 Bq (Decay Time: 30 days)
+Half-Life (days): 157861
+Decay Constant (d-1): 4.39087e-06
+DPM: 2.21971e+06
+Am-241 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: inf%
+	Percentage of Activity Limit: 3.69951%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 7255-Aug-01
+**********************************
+
+Date Shipment can be packaged as Exempt: +infinity
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 87 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 2000000.000000 Bq (Actual Activity: 36883.866557)
+	Shipment License Percentage: -inf%
+
+#####Isotope 1:#####
+Name: Cm-244
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 36883.9 Bq (Decay Time: 30 days)
+Half-Life (days): 6614.68
+Decay Constant (d-1): 0.000104789
+DPM: 2.21303e+06
+Cm-244 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: -inf%
+	Percentage of Activity Limit: 1.84419%
+
+
+Exempt from Licensing on -infinity
+Decay Date (< 500dpm): 2238-Mar-23
+**********************************
+
+Date Shipment can be packaged as Exempt: +infinity
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 88 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 3000000.000000 Bq (Actual Activity: 36210.335420)
+	Shipment License Percentage: -inf%
+
+#####Isotope 1:#####
+Name: Cf-252
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 36210.3 Bq (Decay Time: 30 days)
+Half-Life (days): 963.895
+Decay Constant (d-1): 0.000719111
+DPM: 2.17262e+06
+Cf-252 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: -inf%
+	Percentage of Activity Limit: 1.20701%
+
+
+Exempt from Licensing on -infinity
+Decay Date (< 500dpm): 2050-Oct-07
+**********************************
+
+Date Shipment can be packaged as Exempt: 2038-Sep-02
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 89 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 1000000.000000 Bq (Actual Activity: 74.433218)
+	Shipment Activity Concentration Limit: 100.000000 Bq/g (Actual Concentraion: 3.721661)
+	Shipment License Percentage: 0.002012%
+
+#####Isotope 1:#####
+Name: Sc-47
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 74.4332 Bq (Decay Time: 30 days)
+Half-Life (days): 3.3492
+Decay Constant (d-1): 0.206959
+DPM: 4465.99
+Sc-47 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 0.00201171%
+	Percentage of Activity Limit: 0.00744332%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2018-Nov-26
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 90 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 1000000000.000000 Bq (Actual Activity: 27590.187198)
+	Shipment License Percentage: 7.456807%
+
+#####Isotope 1:#####
+Name: Co-58
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 27590.2 Bq (Decay Time: 30 days)
+Half-Life (days): 70.86
+Decay Constant (d-1): 0.00978193
+DPM: 1.65541e+06
+Co-58 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 7.45681%
+	Percentage of Activity Limit: 0.00275902%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2021-Feb-21
+**********************************
+
+Date Shipment can be packaged as Exempt: 2020-Apr-03
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 91 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: No
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 2000000000.000000 Bq (Actual Activity: 29069.322109)
+	Shipment License Percentage: 785.657354%
+
+#####Isotope 1:#####
+Name: Rb-83
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 29069.3 Bq (Decay Time: 30 days)
+Half-Life (days): 86.2
+Decay Constant (d-1): 0.00804115
+DPM: 1.74416e+06
+Rb-83 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 785.657%
+	Percentage of Activity Limit: 0.00145347%
+
+
+Exempt from Licensing on 2019-Jul-30
+Decay Date (< 500dpm): 2021-Aug-26
+**********************************
+
+Date Shipment can be packaged as Exempt: 2019-Oct-15
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 92 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 3000000.000000 Bq (Actual Activity: 36998.683471)
+	Shipment License Percentage: -inf%
+
+#####Isotope 1:#####
+Name: Ra-226
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 36998.7 Bq (Decay Time: 30 days)
+Half-Life (days): 584400
+Decay Constant (d-1): 1.18608e-06
+DPM: 2.21992e+06
+Ra-226 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: -inf%
+	Percentage of Activity Limit: 1.23329%
+
+
+Exempt from Licensing on -infinity
+Decay Date (< 500dpm): 9999-Dec-31
+**********************************
+
+Date Shipment can be packaged as Exempt: +infinity
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 93 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: No
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 800000000.000000 Bq (Actual Activity: 4625.000000)
+	Shipment License Percentage: 125.000000%
+
+#####Isotope 1:#####
+Name: Pt-188
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 4625 Bq (Decay Time: 30 days)
+Half-Life (days): 10
+Decay Constant (d-1): 0.0693147
+DPM: 277500
+Pt-188 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 125%
+	Percentage of Activity Limit: 0.000578125%
+
+
+Exempt from Licensing on 2018-Nov-19
+Decay Date (< 500dpm): 2019-Feb-15
+**********************************
+
+Date Shipment can be packaged as Exempt: 2019-Jan-01
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 94 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 1000000.000000 Bq (Actual Activity: 22.140249)
+	Shipment Activity Concentration Limit: 100.000000 Bq/g (Actual Concentraion: 1.107012)
+	Shipment License Percentage: 0.000598%
+
+#####Isotope 1:#####
+Name: Pt-191
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 22.1402 Bq (Decay Time: 30 days)
+Half-Life (days): 2.802
+Decay Constant (d-1): 0.247376
+DPM: 1328.41
+Pt-191 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 0.000598385%
+	Percentage of Activity Limit: 0.00221402%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2018-Nov-19
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 95 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: No
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 10000000000.000000 Bq (Actual Activity: 7656.717839)
+	Shipment License Percentage: 206.938320%
+
+#####Isotope 1:#####
+Name: Ir-189
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 7656.72 Bq (Decay Time: 30 days)
+Half-Life (days): 13.2
+Decay Constant (d-1): 0.0525111
+DPM: 459403
+Ir-189 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 206.938%
+	Percentage of Activity Limit: 7.65672e-05%
+
+
+Exempt from Licensing on 2018-Nov-29
+Decay Date (< 500dpm): 2019-Mar-25
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Dec-12
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 96 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 100000.000000 Bq (Actual Activity: 0.000000)
+	Shipment Activity Concentration Limit: 100.000000 Bq/g (Actual Concentraion: 0.000000)
+	Shipment License Percentage: 0.000000%
+
+#####Isotope 1:#####
+Name: Ir-194
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 2.09774e-07 Bq (Decay Time: 30 days)
+Half-Life (days): 0.803
+Decay Constant (d-1): 0.863197
+DPM: 1.25864e-05
+Ir-194 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 5.66956e-12%
+	Percentage of Activity Limit: 2.09774e-10%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2018-Oct-26
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 97 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 1000000.000000 Bq (Actual Activity: 209.753501)
+	Shipment Activity Concentration Limit: 100.000000 Bq/g (Actual Concentraion: 10.487675)
+	Shipment License Percentage: 5.669014%
+
+#####Isotope 1:#####
+Name: Pt-195m
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 209.754 Bq (Decay Time: 30 days)
+Half-Life (days): 4.02
+Decay Constant (d-1): 0.172425
+DPM: 12585.2
+Pt-195m Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 5.66901%
+	Percentage of Activity Limit: 0.0209754%
+
+
+Exempt from Licensing on 2018-Oct-30
+Decay Date (< 500dpm): 2018-Dec-04
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 98 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 10000000.000000 Bq (Actual Activity: 15.452767)
+	Shipment Activity Concentration Limit: 100.000000 Bq/g (Actual Concentraion: 0.772638)
+	Shipment License Percentage: 0.000418%
+
+#####Isotope 1:#####
+Name: Hg-197
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 15.4528 Bq (Decay Time: 30 days)
+Half-Life (days): 2.6725
+Decay Constant (d-1): 0.259363
+DPM: 927.166
+Hg-197 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 0.000417642%
+	Percentage of Activity Limit: 0.000154528%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2018-Nov-18
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 99 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 400000000.000000 Bq (Actual Activity: 10005.080797)
+	Shipment License Percentage: 2.704076%
+
+#####Isotope 1:#####
+Name: V-48
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 10005.1 Bq (Decay Time: 30 days)
+Half-Life (days): 15.9
+Decay Constant (d-1): 0.0435942
+DPM: 600305
+V-48 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 2.70408%
+	Percentage of Activity Limit: 0.00250127%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2019-Apr-27
+**********************************
+
+Date Shipment can be packaged as Exempt: 2019-Feb-14
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 100 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 100000.000000 Bq (Actual Activity: 0.000000)
+	Shipment Activity Concentration Limit: 10.000000 Bq/g (Actual Concentraion: 0.000000)
+	Shipment License Percentage: 0.000000%
+
+#####Isotope 1:#####
+Name: Sc-44
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 9.84993e-52 Bq (Decay Time: 30 days)
+Half-Life (days): 0.1625
+Decay Constant (d-1): 4.26552
+DPM: 5.90996e-50
+Sc-44 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 2.66214e-53%
+	Percentage of Activity Limit: 9.84993e-55%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2018-Oct-18
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 101 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 100000.000000 Bq (Actual Activity: 0.000171)
+	Shipment Activity Concentration Limit: 10.000000 Bq/g (Actual Concentraion: 0.000009)
+	Shipment License Percentage: 0.000005%
+
+#####Isotope 1:#####
+Name: As-72
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 0.000170603 Bq (Decay Time: 30 days)
+Half-Life (days): 1.08333
+Decay Constant (d-1): 0.639828
+DPM: 0.0102362
+As-72 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 4.61089e-06%
+	Percentage of Activity Limit: 1.70603e-07%
+
+
+Exempt from Licensing on 2018-Oct-20
+Decay Date (< 500dpm): 2018-Oct-30
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 102 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 900000000.000000 Bq (Actual Activity: 11481.305270)
+	Shipment License Percentage: 3.103055%
+
+#####Isotope 1:#####
+Name: As-74
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 11481.3 Bq (Decay Time: 30 days)
+Half-Life (days): 17.77
+Decay Constant (d-1): 0.0390066
+DPM: 688878
+As-74 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 3.10306%
+	Percentage of Activity Limit: 0.0012757%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2019-May-20
+**********************************
+
+Date Shipment can be packaged as Exempt: 2019-Feb-28
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 103 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 40000000000.000000 Bq (Actual Activity: 28530.900270)
+	Shipment License Percentage: 0.771105%
+
+#####Isotope 1:#####
+Name: As-73
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 28530.9 Bq (Decay Time: 30 days)
+Half-Life (days): 80
+Decay Constant (d-1): 0.00866434
+DPM: 1.71185e+06
+As-73 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 0.771105%
+	Percentage of Activity Limit: 7.13273e-05%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2021-Jun-12
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Dec-28
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: Lung Absorption [fast, medium, slow] (Type F, M, or S): 
+##################################### SHIPMENT 104 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: No
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 90000000.000000 Bq (Actual Activity: 36999.991420)
+	Shipment License Percentage: inf%
+
+#####Isotope 1:#####
+Name: U-234
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 37000 Bq (Decay Time: 30 days)
+Half-Life (days): 8.96689e+07
+Decay Constant (d-1): 7.73008e-09
+DPM: 2.22e+06
+Lung Absorption: Fast
+U-234 Classification: Excepted
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: inf%
+	Percentage of Activity Limit: 0.0411111%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 9999-Dec-31
+**********************************
+
+Date Shipment can be packaged as Exempt: +infinity
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: Lung Absorption [fast, medium, slow] (Type F, M, or S): 
+##################################### SHIPMENT 105 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: No
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 20000000.000000 Bq (Actual Activity: 36999.991420)
+	Shipment License Percentage: inf%
+
+#####Isotope 1:#####
+Name: U-234
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 37000 Bq (Decay Time: 30 days)
+Half-Life (days): 8.96689e+07
+Decay Constant (d-1): 7.73008e-09
+DPM: 2.22e+06
+Lung Absorption: Medium
+U-234 Classification: Excepted
+Reportable Quantity?: Yes
+
+Percentages: 
+	Percentage of Licensing Limit: inf%
+	Percentage of Activity Limit: 0.185%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 9999-Dec-31
+**********************************
+
+Date Shipment can be packaged as Exempt: +infinity
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: Lung Absorption [fast, medium, slow] (Type F, M, or S): 
+##################################### SHIPMENT 106 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: No
+Shipment Classification: Excepted:
+	Shipment Activity Limit: 6000000.000000 Bq (Actual Activity: 36999.991420)
+	Shipment License Percentage: inf%
+
+#####Isotope 1:#####
+Name: U-234
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 37000 Bq (Decay Time: 30 days)
+Half-Life (days): 8.96689e+07
+Decay Constant (d-1): 7.73008e-09
+DPM: 2.22e+06
+Lung Absorption: Slow
+U-234 Classification: Excepted
+Reportable Quantity?: Yes
+
+Percentages: 
+	Percentage of Licensing Limit: inf%
+	Percentage of Activity Limit: 0.616667%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 9999-Dec-31
+**********************************
+
+Date Shipment can be packaged as Exempt: +infinity
+Date Shipment can be packaged as Excepted: 2018-Nov-16
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
+Initial date (yyyy-mm-dd): How many isotopes? Mass (grams for solids) (liters for liquids): Nature *See DOT 173.425 Table 4* [Regular, Instrument or Article] (Type R, I, or A): State *See DOT 173.425 Table 4* [Solid, Liquid or Gas] (Type S, L, or G): Form [Special/Normal] (Type S or N): 
+Name of isotope: Initial Activity (microCuries) of isotope: 
+##################################### SHIPMENT 107 #####################################
+********** Shipment Data **********
+Initial Date for A0 (t0): 2018-Oct-17
+Mass of Source (g): 20
+Nature: Regular
+State: Solid
+Form: Normal
+Shipment exempt from licensing?: Yes
+Shipment Classification: Exempt:
+	Shipment Activity Limit: 10000000.000000 Bq (Actual Activity: 0.027423)
+	Shipment Activity Concentration Limit: 100.000000 Bq/g (Actual Concentraion: 0.001371)
+	Shipment License Percentage: 0.000001%
+
+#####Isotope 1:#####
+Name: rh-105
+Initial Activity: 1 microCi
+Activity today (2018-Nov-16): 0.0274228 Bq (Decay Time: 30 days)
+Half-Life (days): 1.47321
+Decay Constant (d-1): 0.470502
+DPM: 1.64537
+rh-105 Classification: Exempt
+Reportable Quantity?: No
+
+Percentages: 
+	Percentage of Licensing Limit: 7.41156e-07%
+	Percentage of Activity Limit: 2.74228e-07%
+
+
+Exempt from Licensing on 2018-Nov-16
+Decay Date (< 500dpm): 2018-Nov-03
+**********************************
+
+Date Shipment can be packaged as Exempt: 2018-Nov-16
+Date Shipment can be packaged as Excepted: -infinity
+Date Shipment can be packaged as Type A: -infinity
+Date Shipment can be packaged as Highway Route Control Quantity: -infinity
+########################################################################################
+
+
